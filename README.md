@@ -1,1 +1,1 @@
-# BookGenies AI
+# BookGenius AI
